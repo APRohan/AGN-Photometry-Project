@@ -1,2 +1,5 @@
 data/*.fits
 data/*.fits.gz
+*.fits
+*.fits.gz
+atlas_creds.txt
