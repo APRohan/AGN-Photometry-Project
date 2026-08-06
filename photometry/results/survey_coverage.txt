@@ -1,0 +1,43 @@
+shape: (32, 5)
+┌────────────────────┬────────┬───────┬──────────┬───────────┐
+│ source_name        ┆ ALERCE ┆ ATLAS ┆ Catalina ┆ n_surveys │
+│ ---                ┆ ---    ┆ ---   ┆ ---      ┆ ---       │
+│ str                ┆ bool   ┆ bool  ┆ bool     ┆ i8        │
+╞════════════════════╪════════╪═══════╪══════════╪═══════════╡
+│ 095919.14+090659.4 ┆ false  ┆ true  ┆ true     ┆ 2         │
+│ 164331.90+304835.5 ┆ false  ┆ true  ┆ true     ┆ 2         │
+│ 001255.59+014750.9 ┆ true   ┆ true  ┆ false    ┆ 2         │
+│ 154535.87+014958.1 ┆ false  ┆ true  ┆ true     ┆ 2         │
+│ 172052.29+590153.7 ┆ false  ┆ true  ┆ true     ┆ 2         │
+│ 205601.38-062049.7 ┆ false  ┆ true  ┆ true     ┆ 2         │
+│ 090550.30+003948.1 ┆ false  ┆ true  ┆ true     ┆ 2         │
+│ 140655.51+582200.0 ┆ false  ┆ true  ┆ true     ┆ 2         │
+│ 133433.24-013825.3 ┆ false  ┆ true  ┆ true     ┆ 2         │
+│ 012715.48-001115.1 ┆ false  ┆ true  ┆ true     ┆ 2         │
+│ 121028.83+025454.2 ┆ false  ┆ true  ┆ true     ┆ 2         │
+│ 094203.33+593709.5 ┆ false  ┆ true  ┆ true     ┆ 2         │
+│ 113618.90+125554.8 ┆ false  ┆ true  ┆ true     ┆ 2         │
+│ 084245.18+445533.9 ┆ false  ┆ true  ┆ true     ┆ 2         │
+│ 143418.47+491236.5 ┆ false  ┆ true  ┆ true     ┆ 2         │
+│ 152942.19+350851.3 ┆ true   ┆ true  ┆ true     ┆ 3         │
+│ 075005.28+292944.3 ┆ true   ┆ true  ┆ true     ┆ 3         │
+│ 150348.33+193941.3 ┆ true   ┆ true  ┆ true     ┆ 3         │
+│ 092158.92+034235.7 ┆ true   ┆ true  ┆ true     ┆ 3         │
+│ 083325.69+391204.7 ┆ true   ┆ true  ┆ true     ┆ 3         │
+│ 093856.54+435415.0 ┆ true   ┆ true  ┆ true     ┆ 3         │
+│ 161742.53+322234.4 ┆ true   ┆ true  ┆ true     ┆ 3         │
+│ 153145.14+431933.8 ┆ true   ┆ true  ┆ true     ┆ 3         │
+│ 110104.14+062829.5 ┆ true   ┆ true  ┆ true     ┆ 3         │
+│ 134406.11+392817.4 ┆ true   ┆ true  ┆ true     ┆ 3         │
+│ 143947.10+421317.3 ┆ true   ┆ true  ┆ true     ┆ 3         │
+│ 022325.01-003612.6 ┆ true   ┆ true  ┆ true     ┆ 3         │
+│ 220546.32+005319.2 ┆ true   ┆ true  ┆ true     ┆ 3         │
+│ 082311.26+435318.5 ┆ true   ┆ true  ┆ true     ┆ 3         │
+│ 075947.73+112507.3 ┆ true   ┆ true  ┆ true     ┆ 3         │
+│ 132404.20+433407.1 ┆ true   ┆ true  ┆ true     ┆ 3         │
+│ 095746.83+303024.2 ┆ true   ┆ true  ┆ true     ┆ 3         │
+└────────────────────┴────────┴───────┴──────────┴───────────┘
+
+ALERCE coverage: 18/32
+ATLAS coverage:  32/32
+Catalina coverage: 31/32
